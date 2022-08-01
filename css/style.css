@@ -622,6 +622,7 @@ footer {
     padding: 0;
     color: var(--primary-text-color);
     border: 1px solid var(--primary-text-color);
+    cursor: pointer;
 
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
